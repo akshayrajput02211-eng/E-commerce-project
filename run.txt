@@ -1,0 +1,7 @@
+cd D:\e-commerce\backend
+npm run dev
+
+
+
+cd D:\e-commerce\frontend
+npm start
